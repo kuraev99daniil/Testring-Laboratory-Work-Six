@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj": {}
+    "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj": {}
   },
   "projects": {
-    "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj": {
+    "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
+        "projectUniqueName": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
         "projectName": "Laboratory-Work-Six",
-        "projectPath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
+        "projectPath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
         "packagesPath": "C:\\Users\\megab\\.nuget\\packages\\",
-        "outputPath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\obj\\",
+        "outputPath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

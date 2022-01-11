@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qk6N6W5sXw03Qh8UrO1X+klLNs7PZc98hBZAq2oaniEqFFEJRHiCu5FjTTaPzyb5J6Ebkj2DfE0rUCoMSQDQQQ==",
+  "dgSpecHash": "e1vfFpirr0rMuuEtqFRGFv95eaMt2mJdiy7pKNYl1AqDYqy8+tfn0ekYI2OEfkCpbXLNO7io65Wa0xCaj5yhFw==",
   "success": true,
-  "projectFilePath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six\\Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
+  "projectFilePath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 6\\Laboratory Work Six Git\\Testring-Laboratory-Work-Six\\Laboratory-Work-Six\\Laboratory-Work-Six.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\megab\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\megab\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",

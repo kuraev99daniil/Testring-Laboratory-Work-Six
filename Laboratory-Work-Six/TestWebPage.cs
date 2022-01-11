@@ -12,7 +12,12 @@ namespace Laboratory_Work_Six
         [SetUp]
         public void Init()
         {
-            driver = new ChromeDriver();
+            var x = new ChromeOptions();
+
+            x.AddArgument("--headless");
+            x.AddArgument("--no-sandbox");
+
+            driver = new ChromeDriver(x);
         }
 
         [Test]
