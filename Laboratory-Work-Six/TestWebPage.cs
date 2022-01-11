@@ -35,13 +35,13 @@ namespace Laboratory_Work_Six
 
             searchInput.Click();
 
-            searchInput.SendKeys("Небо");
+            searchInput.SendKeys("Sky");
 
             searchInput.SendKeys(Keys.Enter);
 
             IWebElement firstHeading = driver.FindElement(By.Id("firstHeading"));
 
-            Assert.AreEqual("Небо", firstHeading.Text);
+            Assert.AreEqual("Sky", firstHeading.Text);
 
             PerformDefaultSleep();
         }
